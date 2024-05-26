@@ -1,0 +1,54 @@
+Hola Carmen,
+
+He estado viendo algunas opciones en línea para manejar inventario, usualemente manejan ventas de ese inventario también. Los precios van de $150 a $500 al mes. Aunque tienen muchas funciones, creo que son un poco complejas y caras para lo que necesita.
+
+Las que he mirado son:
+
+https://www.zoho.com/us/inventory/inventory-control-system/
+https://www.ordoro.com/
+https://www.cin7.com/
+monday.com
+https://www.fishbowlapp.com/
+https://www.sortly.com/
+
+
+Sé que busca algo que funcione bien sin gastar tanto, estas son muy completas y bien profesionales pero creo que tienen demasiadas opciones y bastante elevado el precio para lo simple que usted necesita.
+
+Le ofrezco hacerle yo el desarrollo también con un solo costo y darle soporte para la puesta en marcha algo bien sencillo como hablamos. Le adjunto una propuesta económica con una descripción de lo que incluiría según lo conversado. Puedo ajustar con otras ajustarlo con otras cosas si necesita un mayor alcance y negociamos el precio.
+
+Cualquier decisión estamos a sus órdenes ya sabe.
+
+---------
+
+
+Bien entonces si
+
+
+--------------
+
+gmail
+user: benergy.honduras@gmail.com
+pass: benergy2024
+
+oracle cloud
+user: benergy.honduras@gmail.com
+pass: CarmenRivera_2024
+
+
+DATABASE admin
+pass: CarmenRivera_2024
+
+workspace name: benergy
+workspace username: benergy
+workspace password: CarmenRivera_2024
+
+user carmenrivera
+workspace: benergy
+user: carmen
+pass: armenRivera_2024
+not administrator
+not developer
+
+jira
+----
+benergyhonduras.atlassian.net
